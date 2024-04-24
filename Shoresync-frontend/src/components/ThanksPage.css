@@ -1,0 +1,42 @@
+/* Thanks Page Basic Styling */
+.thanks-wrapper {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%; /* Ensure it covers full width */
+}
+
+.thanks-container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+h1 {
+    color: #333333;
+    font-size: 24px;
+}
+
+p {
+    color: #666666;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 25px;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: underline;
+}
