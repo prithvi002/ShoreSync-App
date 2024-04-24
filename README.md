@@ -25,6 +25,26 @@ To set up and run the backend, follow these steps:
     $ npm install
     ```
 
+3. After installing the dependencies, you can then start the backend application using the following command:
+
+    ```bash
+    $ npm run dev
+    ```
+
+### Setting Up the Frontend
+
+To set up and run the frontend, follow these steps:
+
+1. Open a terminal and navigate to the frontend directory:
+   ```bash
+   cd Shoresync-frontend
+   ```
+2. Once you're in the project directory, install the required dependencies (node modules) by running:
+
+    ```bash
+    $ npm install
+    ```
+
 3. After installing the dependencies, you can then start the frontend application using the following command:
 
     ```bash
