@@ -10,7 +10,7 @@
     },
     "recreational": {
       "lable_heading": "Recreactional Structures",
-      "tool_lable": "Recreactional Structures use description",
+      "tool_lable": "Recreational Structures encompass various amenities and facilities designed for leisure activities near bodies of water. These may include piers, boat ramps, marinas, boat houses, wharfs, dilapidated piers, and outfalls.",
       "options": {
         "option1": "Tooltip for option 1",
         "option2": "Tooltip for option 2"
@@ -21,27 +21,26 @@
     }
   },
   "LandUseData": {
-    "Forest": "Forest land use description...",
-    "Scrub shrub": "Scrub Shrub land use description...",
-    "Grass": "Grass land use description...",
-    "Agriculture": "Agriculture land use description...",
-    "Residential": "Residential land use description...",
-    "Commercial": "Commercial land use description...",
-    "Industrial": "Industrial land use description...",
-    "Marsh island": "Marsh Island land use description...",
-    "Bare lot": "Bare Lot land use description...",
-    "Timbered clear cuts": "Timbered Clear Cuts land use description...",
-    "Paved areas": "Paved Areas land use description...",
-    "Unknown land use": "Unknown Land Use land use description..."
+    "Forest": "Forest cover includes deciduous, evergreen, and mixed forest stands. The land use is classified as Forest if there is a dense cover of trees and no other land use category is apparent close to the shoreline, e.g. residential, commercial, industrial, agriculture, etc.",
+    "Scrub shrub": "Scrub-shrub is a land use class that includes small trees, shrubs, and bushy plants. This land use is easily distinguished during remote sensing compared to Forest and Grass.",
+    "Grass": "Grasslands include large unmanaged fields, managed grasslands adjacent to large estates, agriculture tracts reserved for pasture, and grazing. While a general rule of thumb will classify a tract as “grass” if a home sits behind a large tract of grass, a designation of “residential” may be made if there are similar tracts adjacent to each other. This designation can be determined using best professional judgement.",
+    "Agriculture": "Land use defined as agricultural includes farm tracts that are cultivated and crop producing. This designation is not applicable for pastureland, which is coded as Grass.",
+    "Residential": "Residential land use includes single and multi-family dwellings located near the shoreline.",
+    "Commercial": "Commercial is a land use classification denoting small commercial operations such as shops, restaurants, as well as campgrounds. These operations are not necessarily water dependent businesses.",
+    "Industrial": "Industrial operations are larger commercial businesses and can include areas where power plants, pulp mills, refineries, etc. are in operation along the coast.",
+    "Marsh island": "A marsh island is a vegetated wetland that is completely isolated from the mainland and found in open water. A marsh that is surrounded by water due to dissection from small tidal creeks was classified as marsh, not a marsh island.",
+    "Bare lot": "Land use defined as bare includes areas void of any vegetation or obvious land use. Bare areas include those that have been cleared for construction.",
+    "Timbered clear cuts": "Timbered or clear-cut land use is an area where all the trees have been cut down or removed for harvesting or in preparation for construction.",
+    "Paved areas": "Paved areas represent roads which run along the shore and generally are located at the top of the banks. Paved also includes parking areas such as parking at boat landings, or commercial facilities.",
+    "Unknown land use": "Unknown Land Use is if you are not sure from the above options you can select this option."
   },
 
   "BankAttributesData": {
-    "heightItems": "Bank Height Description...",
-    "stabilityItems": "Bank Stability Description...",
-    "coverItems": "Bank Cover Description...",
-    "marshItems": "Marsh Buffer Description...",
-    "beachItems": "Bank Buffer Description...",
-    "pharagamitesItems": "Pharagamites Australis Description..."
-
+    "heightItems": "Bank height is the height of the bank from the base to the top. We estimate height from imagery, field inspection, videography, LIDAR or a combination of all data sources.",
+    "stabilityItems": "Bank Stability assesses a bank's financial strength and ability to withstand economic changes without facing significant distress. It considers factors like capital, asset quality, and risk management, crucial for making informed financial decisions.",
+    "coverItems": "Bank cover is a classification based on the presence or absence of bare soil on the bank. “Cover” can include either vegetative or structural cover.",
+    "marshItems": "Tidal marsh at least 20 sq. ft. in area, meeting the definition established in Virginia’s Tidal Wetlands Act, and not otherwise considered a marsh island. In all cases, wetland vegetation must be relatively well established, although not necessarily healthy. In previous Tidal Marsh Inventories, marshes were further classified based on morphology and physiographic setting. ",
+    "beachItems": "Beaches are persistent sandy shores that are visible during high tides. These features can be wide or thin lenses of sand. Beaches are coded as linear features at the wet/dry line to portray their location only. ",
+    "pharagamitesItems": "Also known as common reed or reed grass, Phragmites is an invasive wetland plant known to thrive in areas that have experienced disturbance. Phragmites is mapped in two ways as a tidal marsh community type where it is dominant (>50% cover) and also where it appears in mapped tidal marshes in any amount."
   }
 }
