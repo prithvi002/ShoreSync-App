@@ -7,10 +7,6 @@ This repository contains the code for both the frontend and backend of the Shore
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Before you begin, ensure you have `npm` installed on your computer. If you do not have `npm` installed, you can download and install Node.js (which includes `npm`) from [Node.js official website](https://nodejs.org/).
-
 
 # Database Configuration for ShoreSync
 
@@ -50,6 +46,10 @@ module.exports = pool;
 
 
 # Setting Up the Backend
+
+### Prerequisites
+
+Before you begin, ensure you have `npm` installed on your computer. If you do not have `npm` installed, you can download and install Node.js (which includes `npm`) from [Node.js official website](https://nodejs.org/).
 
 To set up and run the backend, follow these steps:
 
