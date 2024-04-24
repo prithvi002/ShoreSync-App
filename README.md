@@ -49,7 +49,7 @@ module.exports = pool;
 ```
 
 
-### Setting Up the Backend
+# Setting Up the Backend
 
 To set up and run the backend, follow these steps:
 
@@ -69,7 +69,7 @@ To set up and run the backend, follow these steps:
     $ npm run dev
     ```
 
-### Setting Up the Frontend
+# Setting Up the Frontend
 
 To set up and run the frontend, follow these steps:
 
